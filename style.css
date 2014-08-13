@@ -68,6 +68,17 @@ p {
 	text-align: center;
 }
 
+.second {
+	background-image: url("https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10359239_10152025390801502_2994033496806574103_n.jpg");
+    float:left;
+    width: 200px;
+    height: 200px;
+    padding: 10px 10px 10px 10px;
+	border: white;
+	border-width: 2px;
+	border-style: solid;
+	}
+
 h1 {
 	text-align: center;
 	color:orange;
